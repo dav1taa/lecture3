@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+}
+li{ 
+    list-style: none;
+    margin-left: 15px;
+    color:red;
+}
+
+td{
+    border: 1px solid black;
+}
